@@ -6,6 +6,10 @@ Export SQL Server data to Excel (.xlsx)
  - Microsoft Excel (recommend 2016)
 ### How to use:
  - Config your connection string.
+ 
  ![Config your connection string](http://i.imgur.com/J2rbT8E.png)
+ 
  - Main form.
+ 
  ![Main form](http://i.imgur.com/nrqR9zZ.png)
+ 
